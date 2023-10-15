@@ -1,5 +1,4 @@
+__pycache__/
+handlers/__pychache__/
 config.py
 database.db
-__pycache__/
-env/
-handlers/__pychache__/

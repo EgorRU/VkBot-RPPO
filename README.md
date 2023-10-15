@@ -1,7 +1,3 @@
-## Установка
-- python3 -m venv venv
-- source venv/bin/activate
+## Установка и запуск на Windows
 - pip install -r requirements.txt
-
-## Запуск
-- python3 vk_bot.py
+- py main.py
