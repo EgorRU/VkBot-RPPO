@@ -15,7 +15,6 @@ async def admin_panel(message: Message):
         await message.answer("Недостаточно прав")
        
 
-
 # отправка рассылки
 @admin_labeler.message(text="/student <item>")
 async def mailing_list(message: Message, item: str):
